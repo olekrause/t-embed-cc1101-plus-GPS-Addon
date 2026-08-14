@@ -1,5 +1,7 @@
 # LILYGO T-Embed-CC1101 Plus GPS Add-on
 
+Check out the model on [Printables!](https://www.printables.com/model/1810252-lilygo-t-embed-cc1101-plus-gps-addon)
+
 ![Back view of a LILYGO T-Embed CC1101 Plus with GPS Addon installed](./photos/DSC05019.JPG)
 
 ## Bill of materials
